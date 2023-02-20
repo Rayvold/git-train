@@ -2,4 +2,9 @@ Rencana html
 -javascript
 *ES6
 *Framework JS
+ ^Angular
+ ^React
 -interview
+-PHP Frameworks
+ ^Laravel
+-vlogs
