@@ -2,8 +2,7 @@ Rencana html
 -javascript
 *ES6
 *Framework JS
- ^Angular
- ^React
+ ^Laravel
 -interview
 -PHP Frameworks
  ^Laravel
