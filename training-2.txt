@@ -2,4 +2,6 @@ Rencana html
 -javascript
 *ES6
 *Framework JS
+ ^Laravel
 -interview
+- Python
